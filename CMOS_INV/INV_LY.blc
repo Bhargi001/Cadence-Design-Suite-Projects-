@@ -1,0 +1,6 @@
+"pmos1v(MOS)" "pmos1v(MOS)"
+"nmos1v(MOS)" "nmos1v(MOS)"
+"INV_LY layout CMOSINV" "INV_CELL schematic CMOSINV" "nmos1v(MOS)" "pmos1v(MOS)"
+"INV_LY layout CMOSINV" "INV_CELL schematic CMOSINV" "nmos1v(MOS)" "pmos1v(MOS)"
+Devices filtered from layout
+"TIE"

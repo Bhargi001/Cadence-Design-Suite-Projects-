@@ -1,0 +1,3 @@
+SOFTINCLUDE /home/buet/cadence/IC615/share/cdssetup/cds.lib
+DEFINE CMOSINV /home/buet/Desktop/VLSIEXP/CMOS_INV/CMOSINV
+DEFINE avTech /home/buet/cadence/ASSURA41/tools/assura/etc/avtech/avTech
