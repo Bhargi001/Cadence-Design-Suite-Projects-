@@ -1,0 +1,12 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'NAND_LY layout NANDGATE':
+  info: Assign pin label "GND" at (1.9250, 0.0600) to layer `Metal1_p'.
+  info: Assign pin label "A" at (0.0600, 3.3600) to layer `Metal1_p'.
+  info: Assign pin label "VOUT" at (3.7900, 1.0250) to layer `Metal1_p'.
+  info: Assign pin label "B" at (3.7900, 3.0750) to layer `Metal1_p'.
+  info: Assign pin label "VDD" at (1.9250, 5.1400) to layer `Metal1_p'.
+
+***** End of Label Report *****
+

@@ -1,0 +1,16 @@
+
+
+;----------------------------------------------------------------------------
+; vldb RSF file
+; Created by the Assura UI
+;----------------------------------------------------------------------------
+
+; form additions
+avSimName = "auLvs"
+avDisableWildcardPG = nil
+avLibName  = "NANDGATE"
+avCellName = "NAND_SCH"
+avViewName = "schematic"
+avViewList = "auLvs schematic symbol"
+avStopList = "auLvs"
+avVldbFile = "/home/buet/Desktop/VLSIEXP/NAND_GATE/NAND_LY.sdb"

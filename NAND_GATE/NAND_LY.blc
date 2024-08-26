@@ -1,0 +1,6 @@
+"pmos1v(MOS)" "pmos1v(MOS)"
+"nmos1v(MOS)" "nmos1v(MOS)"
+"NAND_LY layout NANDGATE" "NAND_SCH schematic NANDGATE" "nmos1v(MOS)" "pmos1v(MOS)"
+"NAND_LY layout NANDGATE" "NAND_SCH schematic NANDGATE" "nmos1v(MOS)" "pmos1v(MOS)"
+Devices filtered from layout
+"TIE"

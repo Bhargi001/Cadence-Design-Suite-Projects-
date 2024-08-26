@@ -1,0 +1,3 @@
+SOFTINCLUDE /home/buet/cadence/IC615/share/cdssetup/cds.lib
+DEFINE NANDGATE /home/buet/Desktop/VLSIEXP/NAND_GATE/NANDGATE
+DEFINE avTech /home/buet/cadence/ASSURA41/tools/assura/etc/avtech/avTech
